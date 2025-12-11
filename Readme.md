@@ -1,25 +1,10 @@
 
-# Growlauncher API
-
-[![Static Badge](https://img.shields.io/badge/Click_Me-blue)](https://github.com/PowerKuy/Growlauncher-Documentation/blob/main/Readme.md)
-
-Growlauncher supports [lua programming language](https://lua.org) that allows you to run scripts in Growtopia.
-
-Credit: IniEy ( Growlauncher Staff )
+# API
 
 Lua version: 5.4
 
-New Docs Remake ![New Docs Remake](https://img.shields.io/badge/docs-75%25-yellow)
-
-Last Update: 23/08/2025 (outdated)
-
 # Script Path
 
-GL <v6.1.25
-```Android/data/launcher.powerkuy.growlauncher/ScriptLua/```
-
-GL v6.1.25+
-```Android/data/launcher.powerkuy.growlauncher/files/ScriptLua```
 
 
 # Structs
