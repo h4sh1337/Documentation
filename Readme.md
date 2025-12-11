@@ -1322,27 +1322,9 @@ Example:
 | GAME_ACTIVE_ARROW_TO_ITEM             | 37    |
 | GAME_SELECT_TILE_INDEX                | 38    |
 
-
-#
-
-[Powerkuy's sample script](https://discord.com/channels/897496245373906995/1230832789541224489/1230832789541224489)
-
-#
-
-Don't ask me about ImGui :v
-
-ImGui table list: [ImGui](ImGui_Function_List.lua)
-
-#
-
-
-
 # Credits
 
-This Growlauncher API documentation was made by @iniey and @powerkuy_
-
-Official discord: [Powerkuy Commmunity](https://discord.gg/powerkuyofficial) [![Discord](https://img.shields.io/discord/897496245373906995)](https://discord.gg/powerkuyofficial)
-
+API documentation
 ---
 
 
